@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940996242832",
+    "project_id": "tafiti-94053",
+    "storage_bucket": "tafiti-94053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940996242832:android:45e488433f021900c61715",
+        "android_client_info": {
+          "package_name": "com.tafiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940996242832-mbv2i2plsi51ur6c2ibr9n1hp9b1t3kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRaARCyUuhJfu6XLwZfWMHaXtVo3MBau4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940996242832-mbv2i2plsi51ur6c2ibr9n1hp9b1t3kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
